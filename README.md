@@ -1,5 +1,11 @@
 # Nextgifto Telegram Userbot
 
+**Nextgifto Telegram Userbot** sebuah applikasi untuk menjalankan userbot telegram secara gratis tanpa biaya apapun / tanpa menonton iklan apapun, kamu hanya perlu akun github dan subscribe / follow semua social media kami.
+
+Applikasi **Nextgifto Telegram Userbot** sangat ringan dan smooth karena menggunakan bawaan ui material shell serta tidak terhubung ke pihak 3 sehingga tidak ada log (semua data privacy aman 100%).
+
+Berikut ini beberapa screenshot applikasi
+
 
 | 🧩                                                                                                                     | 📚                                                                                                                     | 🙅                                                                                                                     | 🕛                                                                                                                     | ♻️                                                                                                                      |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
