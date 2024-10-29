@@ -1,0 +1,8 @@
+export "nextgifto_telegram_userbot_pubspec_config.dart";
+export "pubspec_nextgifto_telegram_userbot.dart";
+export "pubspec_nextgifto_telegram_userbot_dependencies.dart";
+export "pubspec_nextgifto_telegram_userbot_dependencies_extra.dart";
+export "pubspec_nextgifto_telegram_userbot_dev_dependencies.dart";
+export "pubspec_nextgifto_telegram_userbot_dev_dependencies_extra.dart";
+export "pubspec_nextgifto_telegram_userbot_environment.dart";
+export "pubspec_nextgifto_telegram_userbot_platforms.dart";

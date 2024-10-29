@@ -1,0 +1,39 @@
+name: 'nextgifto_telegram_userbot'
+description: 'A sample command-line application.'
+version: '0.0.0'
+homepage: 'https://github.com/{main_username_owner}/nextgifto_telegram_userbot'
+repository: 'https://github.com/{main_username_owner}/nextgifto_telegram_userbot'
+issue_tracker: 'https://github.com/{main_username_owner}/nextgifto_telegram_userbot/issues'
+documentation: 'https://github.com/{main_username_owner}/nextgifto_telegram_userbot/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/{main_username_owner}'
+  - 'https://github.com/sponsors/{main_username_owner}'
+  - 'https://github.com/sponsors/azkadev'
+  - 'https://github.com/sponsors/generalfoss'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment: 
+  sdk: '>=3.3.3 <4.0.0'
+dependencies: 
+  path: '^1.9.0'
+  universal_io: '^2.2.2'
+  nextgifto_telegram_userbot: '^0.0.0'
+  nextgifto_telegram_userbot_scheme: '^0.0.0'
+  mason_logger: '^0.3.1'
+  collection: '^1.18.0'
+  yaml: '^3.1.2'
+  yaml_writer: '^2.0.0'
+  general_lib: '^0.0.46'
+dev_dependencies: 
+  lints: '^4.0.0'
+  test: 'any'
+executables: 
+  nextgifto_telegram_userbot: 'nextgifto_telegram_userbot'
+publish_to: 'none'
+dependency_overrides: 
+  pointycastle: '3.8.0'

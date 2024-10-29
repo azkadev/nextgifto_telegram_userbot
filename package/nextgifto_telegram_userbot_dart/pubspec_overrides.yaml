@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: edge_dart_runtime
+dependency_overrides:
+  nextgifto_telegram_userbot:
+    path: ../nextgifto_telegram_userbot
+  nextgifto_telegram_userbot_scheme:
+    path: ../nextgifto_telegram_userbot_scheme
